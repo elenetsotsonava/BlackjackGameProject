@@ -18,20 +18,12 @@ This repository contains the code for a Python-based implementation of the class
 
 ## How to Run the Game
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/blackjack-game-project.git
-    ```
+1. **Open the .py file in Python Interpreter**:
+     
+2. **Run the Code**:
 
-2. **Navigate to the Project Directory**:
-    ```bash
-    cd blackjack-game-project
-    ```
-
-3. **Run the Python File**:
-    ```bash
-    python blackjack.py
-    ```
+3. **Start Playing**:
+   - Follow the on-screen prompts to place bets, hit, stand, and play rounds against the dealer.
 
 ## Game Rules
 
@@ -44,7 +36,7 @@ This repository contains the code for a Python-based implementation of the class
 - **Hitting and Standing**:
   - Players can "Hit" to draw another card or "Stand" to stop drawing.
   - The Dealer automatically "Hits" until their hand value reaches 17 or more.
-  
+
 ## Project Structure
 
 - **blackjack.py**: Main Python file containing the game logic.
@@ -57,4 +49,5 @@ This repository contains the code for a Python-based implementation of the class
 ## Requirements
 
 - **Python 3.x**: Ensure Python is installed on your system. You can download it [here](https://www.python.org/downloads/).
+
 
