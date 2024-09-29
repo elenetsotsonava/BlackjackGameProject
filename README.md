@@ -58,10 +58,3 @@ This repository contains the code for a Python-based implementation of the class
 
 - **Python 3.x**: Ensure Python is installed on your system. You can download it [here](https://www.python.org/downloads/).
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to adjust the repository link and other details specific to your project!
